@@ -20,7 +20,7 @@
         caps_combo {
             bindings = <&kp CAPSLOCK>;
             key-positions = <26 27 28>;
-            timeout-ms = <20>;
+            timeout-ms = <0>;
             layers = <0 2 3>;
         };
 
